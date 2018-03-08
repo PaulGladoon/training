@@ -1,0 +1,5 @@
+Для запуска дебагера в Google Chrome:
+node --inspect-brk training\node_modules\protractor\bin\protractor F:\Projects\JS/training/test/protractor.conf.js
+
+Описание как дебажить:
+https://github.com/angular/protractor/blob/master/docs/debugging.md
